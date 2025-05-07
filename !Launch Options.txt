@@ -1,1 +1,0 @@
--allow_third_party_software -high -fullscreen -full -freq 240 -refresh 240 +fps_max 0 -forcenovsync +exec autoexec.cfg
