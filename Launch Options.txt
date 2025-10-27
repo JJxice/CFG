@@ -1,1 +1,1 @@
--allow_third_party_software -high -novid -fullscreen -full -freq 240 -refresh 240 +fps_max 0 -forcenovsync +exec autoexec.cfg
+-allow_third_party_software -high -novid -fullscreen -full -freq 280 -refresh 280 +fps_max 0 -forcenovsync +exec autoexec.cfg
